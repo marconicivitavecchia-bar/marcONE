@@ -1,0 +1,14 @@
+#logo-container {
+    text-align: center;
+}
+
+#logo {
+    background-color: lightcyan;
+    height: 120px;
+    width: 120px;
+    display:inline-block;
+}
+
+#input-form {
+    text-align: center;
+}
