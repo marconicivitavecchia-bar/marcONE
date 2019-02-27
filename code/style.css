@@ -1,0 +1,40 @@
+body{
+    background-image: url('sfondo.jpg');
+}
+
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 350px;
+    border-radius: 30px;
+    margin-top: 5%;
+}
+
+#form{
+    text-align: center;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+#entra{
+    background-color: goldenrod;
+    border-color: blue;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#user{
+    background-color: goldenrod;
+    border-color: blue;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#pwd{
+    background-color: goldenrod;
+    border-color: blue;
+    border-radius: 5px;
+    font-size: 20px;
+}
