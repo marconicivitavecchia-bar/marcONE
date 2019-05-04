@@ -1,14 +1,40 @@
-#logo-container {
-    text-align: center;
+body{
+    background-image: url('sfondo.jpg');
 }
 
-#logo {
-    background-color: lightcyan;
-    height: 120px;
-    width: 120px;
-    display:inline-block;
+#logo{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    height: 350px;
+    width: 350px;
+    border-radius: 30px;
+    margin-top: 5%;
 }
 
-#input-form {
+#form{
     text-align: center;
+    margin-top: 5%;
+    font-size: 20px;
+}
+
+#entra{
+    background-color: goldenrod;
+    border-color: blue;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#user{
+    background-color: goldenrod;
+    border-color: blue;
+    border-radius: 5px;
+    font-size: 20px;
+}
+
+#pwd{
+    background-color: goldenrod;
+    border-color: blue;
+    border-radius: 5px;
+    font-size: 20px;
 }
